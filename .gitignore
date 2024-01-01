@@ -1,5 +1,6 @@
 .yarn/*
 .vscode/*
+.wrangler/*
 .pnp.*
 node_modules/*
 dist/*
