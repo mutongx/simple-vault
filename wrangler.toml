@@ -1,0 +1,8 @@
+name = "vault"
+main = "src/_worker.ts"
+compatibility_date = "2023-09-30"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vault"
+database_id = "8688c2e4-fdf4-42d1-aa5e-dacbea7e36fd"
